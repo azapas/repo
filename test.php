@@ -2,6 +2,6 @@
 
 echo "this is only test";
 echo "test";
-ec
 
+echo "I changed it on repo";
 ?>
